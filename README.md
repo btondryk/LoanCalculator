@@ -1,2 +1,2 @@
 # LoanCalculator
-A loan calculator that calculates how much the loan is amortized every month until it is paid off.
+YEAR 1 Coding Project: A loan calculator that calculates how much a loan is amortized every month until it is paid off. It prints a shortened amortization table to the user that shows the first five months and the last five months. The user can pass in multiple command line arguments (the loan amount, the annual percentage rate, the length of the loan in months, and if they desire, an extra payment). 
